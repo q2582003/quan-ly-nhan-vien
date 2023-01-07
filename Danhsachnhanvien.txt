@@ -1,0 +1,10 @@
+Danh sach nhan vien cong ty: 
+      Ma nhan vien ||              Ho ten   ||     Chuc vu   ||  So ngay lam viec 
+        001               Phung Xuan Quan         Nhan vien             20
+
+
+        002                    Ho Kim Anh          giam doc             30
+
+
+        003             Nguyen Phuong Nam      truong phong             50
+
